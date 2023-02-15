@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>#abertura 1
+<head>#abertura
+    <meta charset="utf-8">
+    <title>Geek university -html 1</title>#cabecalho
+</head>#fechamento
+<body>#abertura
+    <p>programacao web com django Framework</p>
+</body>#fechamento
+</html>#fechamento

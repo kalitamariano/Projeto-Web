@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+body {
+    color: #0000ff;
+    font-weight: bold;
+    background-color: blanchedalmond;
+    font-family: Arial, Helvetica, sans-serif;
+    ;
+}
+
+div#interface {
+    background: url("../imagens/3d\ fundo.jpg");
+}
